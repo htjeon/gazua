@@ -1,0 +1,9 @@
+server:
+  port: 38082
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: cos
+    password: cos1234
+    url: jdbc:mysql://localhost:30393/blog?serverTimezone=Asia/Seoul
+    
